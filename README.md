@@ -34,7 +34,7 @@ Para usar la librería en tu proyecto, solo tienes que enlazar los archivos publ
 ### 3️⃣ Inserta el contenedor del carrusel
 
 ```
-<div class="carousel">
+<div class="carrusel">
   <img src="img1.jpg" alt="Imagen 1">
   <img src="img2.jpg" alt="Imagen 2">
   <img src="img3.jpg" alt="Imagen 3">
