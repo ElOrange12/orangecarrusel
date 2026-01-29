@@ -3,6 +3,8 @@
 Una librería ligera de carrusel de imágenes desarrollada en clase y publicada con GitHub Pages, diseñada para ser fácilmente reutilizable en cualquier proyecto web mediante un simple enlace externo.
 Permite integrar un carrusel funcional sin necesidad de instalaciones complejas, facilitando su implementación a través de una URL pública.
 
+---
+
 ## ✨ Características
 
 - 📸 Carrusel de imágenes dinámico
@@ -10,6 +12,8 @@ Permite integrar un carrusel funcional sin necesidad de instalaciones complejas,
 - 🧩 Librería reutilizable
 - 🎨 Diseño limpio y adaptable
 - 🪶 Ligera y fácil de configurar
+
+---
 
 ## 🚀 Instalación / Uso
 
@@ -38,6 +42,8 @@ Para usar la librería en tu proyecto, solo tienes que enlazar los archivos publ
 ```
 
 Y listo ✅ El carrusel debería funcionar automáticamente.
+
+---
 
 ## 🛠️ Tecnologías
 
